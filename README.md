@@ -6,7 +6,7 @@
     Depois de fazer o git clone, você precisará fazer os segintes passos:
 
     1. Abra o terminal e vá até o caminho do projeto que você clonou
-    2. digite o comando: npm install **-g create-react-app**
+    2. digite o comando: npm install
     3. digite o comando: npm start
 
     Depois desses comandos irá abrir uma janela no seu navegador padrão com a aplicação.
